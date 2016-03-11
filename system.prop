@@ -105,5 +105,5 @@ fw.max_users=1
 
 # Ringtones and Notification tones
 ro.config.ringtone=unknown
-ro.config.notification_sound=-unknown
+ro.config.notification_sound=unknown
 ro.config.alarm_alert=unknown

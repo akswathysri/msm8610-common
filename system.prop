@@ -97,8 +97,13 @@ ro.usb.bpteth_adb=0x2e2b
 # Wifi
 ro.disableWifiApFirmwareReload=true
 
-#On Screen buttons
+# On Screen buttons
 qemu.hw.mainkeys=1
 
-#Multi Users
+# Multi Users
 fw.max_users=1
+
+# Ringtones and Notification tones
+ro.config.ringtone=unknown
+ro.config.notification_sound=-unknown
+ro.config.alarm_alert=unknown

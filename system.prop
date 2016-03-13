@@ -104,6 +104,6 @@ qemu.hw.mainkeys=1
 fw.max_users=1
 
 # Ringtones and Notification tones
-ro.config.ringtone=unknown
-ro.config.notification_sound=unknown
-ro.config.alarm_alert=unknown
+ro.config.ringtone=cyantone.ogg
+ro.config.notification_sound=cyantone.ogg
+ro.config.alarm_alert=cyantone.ogg
